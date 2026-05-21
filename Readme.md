@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Live Demo
-👉 https://YOUR-STREAMLIT-LINK-HERE
+👉https://flight-price-prediction-iyytyeufpwe79ybgaxhrjh.streamlit.app/
 
 ---
 
